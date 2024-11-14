@@ -152,6 +152,7 @@ Assessment](https://www.amazon.com/Art-Software-Security-Assessment-Vulnerabilit
 * [Gamehacking Academy](https://gamehacking.academy/about)
 * [seal9055\_Minesweeper/ds3 Intro](https://seal9055.com/blog/game/dark_souls_3) (mine)
 * [Abraxus\_GH Intro](https://kasimir123.github.io/blog-posts/JourneyToSavagePlanet.html)
+* [CyberPython](https://pythoncyber.go.ro)
 
 <a name="10"/></a>
 ### Appsec
